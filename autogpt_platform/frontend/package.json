@@ -46,7 +46,7 @@
     "@radix-ui/react-tooltip": "^1.1.6",
     "@sentry/nextjs": "^8",
     "@supabase/ssr": "^0.5.2",
-    "@supabase/supabase-js": "^2.47.8",
+    "@supabase/supabase-js": "^2.47.11",
     "@tanstack/react-table": "^8.20.6",
     "@xyflow/react": "^12.3.6",
     "ajv": "^8.17.1",
